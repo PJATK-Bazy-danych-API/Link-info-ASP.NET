@@ -1,0 +1,77 @@
+﻿body {
+    font-family: Verdana,arial, sans-serif;
+    font-size: small;
+    color: #000000;
+    background-color: white;
+    margin: 0px;
+}
+
+#Lewy {
+    padding: 5px 10px 5px 10px;
+    float: left;
+    width: 180px;
+}
+
+#Menu {
+    color: #e1d8d8;
+    font-size: 14pt;
+    text-align: center;
+    background-color: #808080;
+}
+
+#ObszarLogowania {
+    text-align: right;
+    background-color: #999999;
+    padding: 5px 10px 5px 10px;
+    color: #FFFFFF;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Roboczy {
+    background-color: #F7F7F7;
+    margin: 0px 0px 0px 200px;
+    padding: 50px 20px 50px 20px;
+}
+
+#Baner {
+    padding: 10px;
+    margin: 0;
+    text-align: left;
+    background-image: url('Rys/ZukPoziomy.GIF');
+    background-repeat: no-repeat;
+    background-position: right center;
+    height: 90px;
+}
+
+.watermarked {
+    height: 20px;
+    width: 150px;
+    padding: 2px 0 0 2px;
+    border: 1px solid #BEBEBE;
+    background-color: #FOF8FF;
+    color: gray;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #009900;
+    font-family: 'Trebuchet MS', verdana, arial, sans-serif;
+    font-style: italic;
+    font-weight: normal;
+}
+
+.szary {
+    background-color: #E4E4E4;
+}
+
+.wyroznione {
+    color: #00FF00;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #009900;
+    width: 544px;
+}
+
+.tekstbanner {
+    color: #008080;
+}

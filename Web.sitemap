@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="" title="Linki - ASP.NET"  description="Linki - ASP.NET">
+	  <siteMapNode url="" title="On nas"  description="O nas">
+			<siteMapNode url="Home.aspx" title="O nas"  description="Strona startowa" />
+			<siteMapNode url="Rejestracja.aspx" title="Rejestracja"  description="Rejestracja użytkowników" />
+			<siteMapNode url="Przegladanie.aspx" title="Przeglądanie linków" description="Przeglądanie linków" />
+			<siteMapNode url="WynikiWyszukiwania.aspx" title="Wyszukiwanie po tytule" description="Wyszukiwanie po tytule" />
+	  </siteMapNode>
+	  <siteMapNode url="" title="Administracja"  description="Administracja">
+			<siteMapNode url="EdycjaLinkow.aspx" title="Edycja linków" description="Edycja" />
+	  </siteMapNode>
+	  <siteMapNode url="" title="Ankieta"  description="Ankieta">
+		  <siteMapNode url="Ankieta.aspx" title="Ankieta" description="Ankieta" />
+	  </siteMapNode>
+  </siteMapNode>
+</siteMap>
